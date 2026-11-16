@@ -8,7 +8,7 @@
 
 👉 **R1-7A ürün sayfası ve teklif: [robotlar.org/tr/unitree-bilesenler/r1-7a](https://www.robotlar.org/tr/unitree-bilesenler/r1-7a)**
 
-[Hızlı Kurulum](#-ortam-kurulumu) · [Teleoperasyon](#-teleoperasyon) · [Veri Toplama](#-veri-toplama) · [Ayrıntılı Rehber](docs/AYRINTILI-REHBER.md) · [Unitree Ürünleri](#-unitree-ürün-ailesi-türkiye)
+[Hızlı Kurulum](#-ortam-kurulumu) · [Teleoperasyon](#️-teleoperasyon) · [Veri Toplama](#-veri-toplama) · [Ayrıntılı Rehber](docs/AYRINTILI-REHBER.md) · [Unitree Ürünleri](#-unitree-ürün-ailesi-türkiye)
 
 </div>
 
